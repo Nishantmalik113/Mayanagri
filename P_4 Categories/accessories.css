@@ -203,7 +203,7 @@ img{
 
 .top-img1{
     position: absolute;
-    left: 200px;
+    left: 210px;
     top: 1083px;
     opacity: 0;
     transition: all 0.3s ease-in-out;
@@ -236,7 +236,7 @@ img{
 
 .top-img4{
     position: absolute;
-    left: 125px;
+    left: 210px;
     top: 1707px;
     opacity: 0;
     transition: all 0.3s ease-in-out;
