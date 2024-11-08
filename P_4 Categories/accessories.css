@@ -44,7 +44,7 @@ img{
 
 @font-face {
     font-family: 'rettisha';
-    src: url('/P_3 Shop/Rettisha\ Regular.ttf');
+    src: url('/Mayanagri/P_3 Shop/Rettisha Regular.ttf');
 }
 
 /*discount*/
@@ -57,7 +57,7 @@ img{
 /*accessories*/
 
 .accessories{
-    background-image: url('/P_3 Shop/images/Component\ 20.png');
+    background-image: url('/Mayanagri/P_3 Shop/images/Component 20.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -152,7 +152,7 @@ img{
 .accessory-menu{
     margin: 0 ;
     background-color: #efefef;
-    background-image: url('/P_3 Shop/images/grid.png');
+    background-image: url('/Mayanagri/P_3 Shop/images/grid.png');
     background-repeat: 3;
     background-position: center;
     background-size: 33%;
