@@ -57,7 +57,7 @@ img{
 /*shop*/
 
 .shop{
-    background-image: url('/P_3 Shop/images/Component\ 20.png');
+    background-image: url('images/Component\ 20.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -115,7 +115,7 @@ img{
 .shop-main{
     margin: 0 ;
     background-color: #efefef;
-    background-image: url('/P_3 Shop/images/grid.png');
+    background-image: url('images/grid.png');
     background-repeat: 3;
     background-position: center;
     background-size: 33%;
@@ -263,7 +263,7 @@ img{
 
 .deals{
     background-color: #efefef;
-    background-image: url('/P_3 Shop/images/grid.png');
+    background-image: url('images/grid.png');
     background-position: center;
     background-size: 33%;
     background-repeat: 3;
